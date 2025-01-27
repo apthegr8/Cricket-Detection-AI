@@ -1,0 +1,10 @@
+train: 
+  - "C:/Users/Api/Desktop/New_model/yolo/FineTune/video1/images"
+  - "C:/Users/Api/Desktop/New_model/yolo/FineTune/video2/images"
+
+val: 
+  - "C:/Users/Api/Desktop/New_model/yolo/FineTune/video1/images"
+  - "C:/Users/Api/Desktop/New_model/yolo/FineTune/video2/images"
+
+nc: 1  # Number of classes (update this if you have more classes)
+names: ['cricket']  # Replace with actual class name(s)
