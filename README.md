@@ -17,7 +17,7 @@ This guide will help you set up the YOLOv5s model for cricket detection on a Ras
   
 ### Model Architecture
 - **YOLOv5s** (Small variant of YOLOv5)
-- Pretrained model: **yolo.zip** (download from the provided link)
+- Pretrained model: **yolo** (download from this github repo)
 
 ---
 
