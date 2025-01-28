@@ -23,6 +23,8 @@ This guide will help you set up the YOLOv5s model for cricket detection on a Ras
 
 ## ⚙️ Environment Setup
 
+🔥 Pretrained Model
+Download the pretrained model from this repo
 
 ### 1. Create Python Environment
 Navigate to your project directory:
@@ -79,9 +81,6 @@ use the following command to check the version your folder is in
 python --version
 ```
 
-
-🔥 Pretrained Model
-Download the pretrained model from here
 
 cd into project
 
